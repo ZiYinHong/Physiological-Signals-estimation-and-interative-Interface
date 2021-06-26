@@ -5,11 +5,11 @@
 #### use ecg & ppg signals to calculate blood pressure value
 ---
 
-#### - 程式開發與執行環境說明 
+#### 程式開發與執行環境說明 
 MATLAB(R2019b)
 
 
-#### - file structure:
+#### file structure:
 ```
 this repo
 ├── clean data (data: raw_data.xlsx)
@@ -24,8 +24,13 @@ this repo
 ├── 程式說明書.pdf
 ```
 
-#### - 說明: (以 **clean data** file為例)
+#### 說明: (以 **clean data** file為例)
 - 執行檔1 : 
-  > 對有 MATLAB(R2019b)的使用者，可在 MATLAB 裡 load 執行檔 1 裡 的 app.mlappinstall 此檔，有 load 成功後可再工具列 APPS-> MY APPS裡看到此 app(名稱 app)，按其圖示即可執行
+  > 對有 **MATLAB(R2019b)** 的使用者，可在 MATLAB 裡 load 執行檔 1 裡 的 app.mlappinstall 此檔，
+  > 有 load 成功後可再工具列 APPS-> MY APPS裡看到此 app(名稱 app)，按其圖示即可執行
+  
+ - 執行檔2 : 
+  > 對無 MATLAB 的使用者，在 for_redistribution 資料夾裡先安裝 MyAppInstaller_web 環境(第一次執行才需安裝)，
+  > 接著在 for_redistribution_files_only 資料夾裡執行 app 檔即可。(但執行起來會較其他方式久)
 
 #### more details refer to 程式說明書.pdf
