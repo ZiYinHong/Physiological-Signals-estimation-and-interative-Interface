@@ -3,7 +3,7 @@
 
 #### implement PTT-BP model
 #### use ecg & ppg signals to calculate blood pressure value
----
+-------------------------------------------------------------------------------------------------------------------
 
 #### 程式開發與執行環境說明 
 MATLAB(R2019b)
@@ -25,7 +25,8 @@ this repo
 ```
 
 #### 說明: 
-##### *clean data file*
+#### **clean data file**
+
 - 執行檔1 : 
   > 對**有 MATLAB(R2019b)** 的使用者，可在 MATLAB 裡 load 執行檔 1 裡 的 app.mlappinstall 此檔，
   > 有 load 成功後可再工具列 APPS-> MY APPS裡看到此 app(名稱 app)，按其圖示即可執行
@@ -46,7 +47,7 @@ this repo
   > 原始資料
 
   
-##### *dirty data file*
+#### **dirty data file**
 - app_bidmc.m : 
   > MATLAB 程式碼 
   > 有 MATLAB 的使用者直接run此檔也可執行app
@@ -56,5 +57,5 @@ this repo
   > 使用 bidmc_<編號>_Signals.csv 資料 (default 建議使用 bidmc_02_Signals來run)
 
   
-
+-------------------------------------------------------------------------------------------------------------------
 #### more details refer to 程式說明書.pdf
