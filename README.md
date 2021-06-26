@@ -16,7 +16,7 @@ this repo
 │   ├── 執行檔 1
 │   ├── 執行檔 2
 │   ├── app.mlapp
-│   └── app_MATLABcode.m
+│   ├── app_MATLABcode.m
 │   └── raw_data.xlsx
 ├── dirty data (data: bidmc_csv)
 │   ├── app_bidmc.m
