@@ -54,7 +54,8 @@ this repo
 
 - bidmc_csv : 
   > 原始資料，內有53筆資料，源自 **BIDMC PPG and Respiration Dataset**
-  > 使用 bidmc_編號_Signals.csv 資料 (default 建議使用 bidmc_02_Signals來run)
+  > 請使用 bidmc_編號_Signals.csv 來run code 
+  > (default 建議使用 bidmc_02_Signals.csv來run)
 
   
 -------------------------------------------------------------------------------------------------------------------
