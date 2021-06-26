@@ -53,8 +53,8 @@ this repo
   > 有 MATLAB 的使用者直接run此檔也可執行app
 
 - bidmc_csv : 
-  > 原始資料，內有53筆資料，源自 <BIDMC PPG and Respiration Dataset>
-  > 使用 bidmc_<編號>_Signals.csv 資料 (default 建議使用 bidmc_02_Signals來run)
+  > 原始資料，內有53筆資料，源自 **BIDMC PPG and Respiration Dataset**
+  > 使用 bidmc_編號_Signals.csv 資料 (default 建議使用 bidmc_02_Signals來run)
 
   
 -------------------------------------------------------------------------------------------------------------------
